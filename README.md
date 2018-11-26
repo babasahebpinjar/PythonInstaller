@@ -9,5 +9,7 @@ Different Tools to create python installer
 Support for LP
 
   pulp which is a Linear programming module of python is supported by pyInstaller.
-  have to check how to install cbc to make use of solve() function of pulp library....?
+  ( http://benalexkeen.com/linear-programming-with-python-and-pulp/ )
+  
+  Have to check how to install cbc to make use of solve() function of pulp library....?
 
