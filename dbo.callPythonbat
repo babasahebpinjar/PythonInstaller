@@ -1,0 +1,4 @@
+Declare @PythonExecutable_1 varchar(500)
+
+set @PythonExecutable_1 = 'C:\Installer_TestApp\Standalone_baba\TestAppFolder\runPython.bat COMM_2 1000'
+Exec BabaTest..xp_cmdshell @PythonExecutable_1
